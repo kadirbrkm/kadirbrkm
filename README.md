@@ -1,11 +1,11 @@
-<image src="https://cdn.leonardo.ai/users/3698f2bf-2b21-4c3e-96eb-0323de320c07/generations/a63b4aa2-097b-43c8-b17a-435cced5e5cc/Default_A_cover_photo_with_the_theme_of_python_language_machin_2.jpg" alt="MasterHead" width="820px" height="400px">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1697adb8-bfb5-49b1-85c1-efde49d71052/dcxuq07-97996a2d-1833-4256-bbf5-4b979098765b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2OTdhZGI4LWJmYjUtNDliMS04NWMxLWVmZGU0OWQ3MTA1MlwvZGN4dXEwNy05Nzk5NmEyZC0xODMzLTQyNTYtYmJmNS00Yjk3OTA5ODc2NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-EFscCgfd20S5YLV7vTF00MzWmP-IsRkEJ2ARYVcx-w" alt="Kapak Fotoğrafı">
+
 
 <h1 align="center">Hi 👋, I'm Kadir Berkem</h1>
 <h3 align="center">Curious, passionate and creative developer & Aviation enthusiast</h3>
 
 <div style="display: flex;">
-  <img src="https://s3.ezgif.com/tmp/ezgif-3-254ba9ace6.gif" width="400" style="flex: 1;">
-  <img src="https://s3.ezgif.com/tmp/ezgif-3-f9a0430c12.gif" width="400" style="flex: 1;"> 
+  <img src="https://s3.ezgif.com/tmp/ezgif-3-254ba9ace6.gif" width="800" height="450" style="flex: 1;">
 </div>
 
 
