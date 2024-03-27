@@ -24,7 +24,8 @@
 
 - 💬 Ask me about **Python, Machine Learning, Front-end**
 
-- 📫 How to reach me **kadirberkemeskicirak@gmail.com**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/kadir-eski%C3%A7%C4%B1rak-1806aa226/">LinkedIn</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
