@@ -30,6 +30,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirbrkm&show_icons=true&locale=en&layout=compact" alt="kadirbrkm" /></p>
 
+
+![snake gif](https://github.com/kadirbrkm/kadirbrkm/blob/output/github-contribution-grid-snake.gif)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirbrkm&show_icons=true&locale=en" alt="kadirbrkm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadirbrkm&" alt="kadirbrkm" /></p>
