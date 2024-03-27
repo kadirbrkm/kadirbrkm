@@ -1,4 +1,4 @@
-<image src="https://cdn.leonardo.ai/users/3698f2bf-2b21-4c3e-96eb-0323de320c07/generations/a63b4aa2-097b-43c8-b17a-435cced5e5cc/Default_A_cover_photo_with_the_theme_of_python_language_machin_2.jpg" alt="MasterHead" width="450px" height="250px">
+<image src="https://cdn.leonardo.ai/users/3698f2bf-2b21-4c3e-96eb-0323de320c07/generations/a63b4aa2-097b-43c8-b17a-435cced5e5cc/Default_A_cover_photo_with_the_theme_of_python_language_machin_2.jpg" alt="MasterHead" width="820px" height="400px">
 
 <h1 align="center">Hi 👋, I'm Kadir Berkem</h1>
 <h3 align="center">Curious, passionate and creative developer & Aviation enthusiast</h3>
