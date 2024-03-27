@@ -5,7 +5,7 @@
 <h3 align="center">Curious, passionate and creative developer & Aviation enthusiast</h3>
 
 <div style="display: flex;">
-  <img src="https://s3.ezgif.com/tmp/ezgif-3-254ba9ace6.gif" width="800" height="450" style="flex: 1;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd0eWIzemRpcDVqZTN2aTRyanhjaDVvOTY4cXQzaGg2OGU0dmhvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="812" height="450" style="flex: 1;">
 </div>
 
 
