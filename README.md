@@ -32,11 +32,13 @@
   <strong>I'm Kadir<br>
   Curious, passionate and creative Data Scientist & Aviation enthusiast, from Turkey! ✈️💻</strong><br><br>
 
-  <span style="font-size: 18px;">
-    - 🔭 By day, I build smart systems powered by data. By night, I explore the cutting edge: <strong>GenAI, LLMs</strong>, and what’s next.<br>
-    - 📚 My curiosity is currently orbiting around <strong>next-gen AI, autonomous reasoning</strong>, and <strong>human–AI collaboration</strong>.<br>
-    - ⚡ Outside the matrix, I'm all about <strong>adventure, travel, and high-intensity everything</strong> — from mountain cliffs to music playlists.
-  </span>
+<h3>🔭 By day, I build smart systems powered by data.</h3>
+<h3>🌌 By night, I explore the cutting edge: <strong>GenAI</strong>, <strong>LLMs</strong>, and what’s next.</h3>
+
+<h3>📚 My curiosity orbits around <strong>next-gen AI</strong>, <strong>autonomous reasoning</strong>, and <strong>human–AI collaboration</strong>.</h3>
+
+<h3>⚡ Outside the matrix: <strong>adventure</strong>, <strong>travel</strong>, and <strong>high-intensity everything</strong> from mountain cliffs to music playlists.</h3>
+
 </p>
 
 
