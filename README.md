@@ -25,11 +25,20 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
+<h2 align="left"><strong>👨‍💻 DATA SCIENTIST | MACHINE LEARNING ENGINEER </strong></h2>
 
-<p align="left">I'm Kadir <br>Curious, passionate and creative Data Scientist & Aviation enthusiast, from Turkey! ✈️💻<br><br>- 🔭 By day, I build smart systems powered by data. By night, I explore the cutting edge: GenAI, LLMs, and what’s next.<br>- 📚 My curiosity is currently orbiting around next-gen AI, autonomous reasoning, and human–AI collaboration.<br>- ⚡ Outside the matrix, I'm all about adventure, travel, and high-intensity everything from mountain cliffs to music playlists.</p>
+<p align="left">
+  <strong>I'm Kadir<br>
+  Curious, passionate and creative Data Scientist & Aviation enthusiast, from Turkey! ✈️💻</strong><br><br>
+
+  <span style="font-size: 18px;">
+    - 🔭 By day, I build smart systems powered by data. By night, I explore the cutting edge: <strong>GenAI, LLMs</strong>, and what’s next.<br>
+    - 📚 My curiosity is currently orbiting around <strong>next-gen AI, autonomous reasoning</strong>, and <strong>human–AI collaboration</strong>.<br>
+    - ⚡ Outside the matrix, I'm all about <strong>adventure, travel, and high-intensity everything</strong> — from mountain cliffs to music playlists.
+  </span>
+</p>
+
 
 ###
 
